@@ -58,6 +58,7 @@ Model performansını daha da ileriye taşımak için planlanan adımlar[cite: 3
 1. Repoyu bilgisayarınıza klonlayın:
    git clone [https://github.com/gulozturkk/repo-adi.git](https://github.com/gulozturkk/repo-adi.git)
    cd repo-adi
+
 2.Gerekli kütüphaneleri yükleyin:
   pip install pandas numpy matplotlib scikit-learn jupyter
 
